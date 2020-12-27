@@ -1,0 +1,43 @@
+{
+  "name": "first-responder-bff",
+  "version": "0.0.1",
+  "description": "BFF aggregator for the First Responder",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server-express": "^2.19.1",
+    "class-validator": "^0.12.2",
+    "express": "^4.17.1",
+    "graphql": "^14.7.0",
+    "tsyringe": "^4.4.0",
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.11.0",
+    "@typescript-eslint/parser": "^4.11.0",
+    "eslint": "^7.16.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/first-responder-team/first-responder-bff.git"
+  },
+  "keywords": [
+    "graphql",
+    "nodejs",
+    "typescript",
+    "javascript",
+    "auth0"
+  ],
+  "author": "Sairaj Madhavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/first-responder-team/first-responder-bff/issues"
+  },
+  "homepage": "https://github.com/first-responder-team/first-responder-bff#readme"
+}
