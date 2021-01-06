@@ -1,4 +1,6 @@
-# first-responder-bff
+# BFF Template
+
+A template for GraphQL + NodeJS + Typescript + Apollo Server
 
 To start the server
 `ts-node index.ts`
