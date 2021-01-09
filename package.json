@@ -1,7 +1,7 @@
 {
-  "name": "first-responder-bff",
+  "name": "bff-template",
   "version": "0.0.1",
-  "description": "BFF aggregator for the First Responder",
+  "description": "A template project",
   "main": "index.ts",
   "dependencies": {
     "apollo-server": "^2.19.1",
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/first-responder-team/first-responder-bff.git"
+    "url": "git+.git"
   },
   "keywords": [
     "graphql",
@@ -54,7 +54,7 @@
   "author": "Sairaj Madhavan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/first-responder-team/first-responder-bff/issues"
+    "url": "https://github.com/sairajm/bff-template/issues"
   },
-  "homepage": "https://github.com/first-responder-team/first-responder-bff#readme"
+  "homepage": "https://github.com/sairajm/bff-template#readme"
 }
